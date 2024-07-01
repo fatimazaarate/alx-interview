@@ -67,6 +67,6 @@ if __name__ == '__main__':
 
     board = [[0 for j in range(n)] for i in range(n)]
     """
-    running this shit recursively
+    running this recursively
     """
     solve(board, 0, n)
